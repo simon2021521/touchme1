@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     //this is from simom
+    //this is from felix
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
